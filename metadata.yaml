@@ -1,0 +1,30 @@
+_repo: Larry-Dexter-and-the-Stolen-Boy-or-A-Young-Reporter-on-the-Lakes_56743
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2018-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56743'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reporters and reporting -- Juvenile fiction'
+- !lcsh 'Kidnapping -- Juvenile fiction'
+- !lcsh 'Mystery and detective stories'
+- !lcc 'PZ'
+- GITenberg
+title: Larry Dexter and the Stolen Boy; or, A Young Reporter on the Lakes
+url: http://www.gutenberg.org/ebooks/56743
